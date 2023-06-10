@@ -1,2 +1,2 @@
 # Artloopstic-FrontEnd-
-NFVTs Landing Page Project
+NFTs Landing Page Project
